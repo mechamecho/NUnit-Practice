@@ -1,7 +1,6 @@
 C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\bin\Debug\Business.exe.config
 C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\bin\Debug\Business.exe
 C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\bin\Debug\Business.pdb
-C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
 C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
 C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\obj\Debug\Business.exe
 C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business\obj\Debug\Business.pdb
