@@ -1,0 +1,12 @@
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\Business.Tests.exe.config
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\Business.Tests.exe
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\Business.Tests.pdb
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\Business.exe
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\Business.pdb
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\Business.exe.config
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\obj\Debug\Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\obj\Debug\Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\obj\Debug\Business.Tests.exe
+C:\Users\Engineer\Desktop\Prep2\NUnit\Business\Business.Tests\obj\Debug\Business.Tests.pdb
